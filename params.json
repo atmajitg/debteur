@@ -1,0 +1,6 @@
+{
+  "name": "DebtEUR",
+  "tagline": "Visualization of Debt data",
+  "body": "### Debt to GDP ratio in Europe:\r\nThe SVG files as well as the R code used for the project are available on my github page[Europe in Crisis](https://github.com/atmajitg/svg_europe). I have tried my best to explain how R can be used to manipulate the SVG files.\r\n\r\nPLease feel free to visit my [website](https://atmajitgohil.com/2016/12/13/debt-to-gdp-ratio-r-and-svg/) and my [Blog](http://datavisualizationineconomics.blogspot.com/2016/12/debt-to-gdp-r-and-svg.html).\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
